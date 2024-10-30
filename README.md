@@ -1,1 +1,3 @@
 # TarefaCasandraVsMySql
+
+PRIMER PASO
